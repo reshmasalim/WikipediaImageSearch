@@ -1,3 +1,3 @@
 # WikipediaImageSearch
 
-Demo for Image searching on wikipwdia.
+Demo for Image searching on wikipedia.
